@@ -1,0 +1,17 @@
+{
+"companyName": "Elementiad",
+"productName": "Flipbits_Prototype",
+"productVersion": "0.1",
+"dataUrl": "Flipbits_Build_3-23-2020.data.unityweb",
+"wasmCodeUrl": "Flipbits_Build_3-23-2020.wasm.code.unityweb",
+"wasmFrameworkUrl": "Flipbits_Build_3-23-2020.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Flipbits_Build_3-23-2020.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.3.0f6"
+}
